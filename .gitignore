@@ -1,0 +1,16 @@
+**/keys/*
+/.idea/
+**/.env
+__pycache__/
+/logs/
+/.base_urls
+/mock/
+venv
+*.egg-info
+build
+dist
+.vscode
+.pytest_cache
+error.log
+.fleet
+.pytest_cache
